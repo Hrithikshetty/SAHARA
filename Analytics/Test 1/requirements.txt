@@ -1,0 +1,10 @@
+# step 1 : conda create -p myenv pyhton==3.18 -y
+
+#step 2: conda activate myenv/
+
+#libraries :
+openai
+langchain
+
+# step 3 : pip install -r requirements.txt
+

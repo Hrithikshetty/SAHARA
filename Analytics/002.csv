@@ -1,0 +1,183 @@
+,Incident Date,Description,Case Category,Location,Longitude,Latitude
+0,26-04-2024,Flood warning issued for coastal areas,Natural Disaster,"Tannirbavi Beach, Mangalore",74.8138741,12.8913022
+1,25-04-2024,Tsunami drill conducted in the cities,Natural Disaster,"Kadri Park, Mangalore",74.8562231,12.8889802
+2,24-04-2024,Landslide reported in hilly regions,Natural Disaster,"Western Ghats, Near Charmadi Ghat, Mangalore",74.8559568,12.9141417
+3,23-04-2024,Earthquake preparedness workshop held,Natural Disaster,"Town Hall, Mangalore",74.8393895,12.8643791
+4,22-04-2024,Cyclone evacuation drills conducted,Natural Disaster,"Panambur Beach, Mangalore",74.8011783,12.9530213
+5,21-04-2024,Flood relief camps set up in low-lying areas,Natural Disaster,"Bejai Park, Mangalore",74.8467279,12.8901797
+6,20-04-2024,Forest fire containment efforts underway,Natural Disaster,"Kudremukh National Park, Mangalore",74.8559568,12.9141417
+7,19-04-2024,Severe thunderstorm warning issued,Natural Disaster,"Lalbagh Botanical Garden, Mangalore",74.8559568,12.9141417
+8,18-04-2024,Flash floods reported in river basins,Natural Disaster,"Netravati River Basin, Mangalore",74.8559568,12.9141417
+9,17-04-2024,Heatwave advisory issued for the city,Natural Disaster,"Bendoorwell Circle, Mangalore",74.856876,12.8702559
+10,26-04-2024,Black leather wallet found,Lost and Found Assistance,"Main Street, Hampankatta, Mangalore",74.8434026,12.8721142
+11,25-04-2024,Samsung Galaxy S20 found,Lost and Found Assistance,"Bus Stand, State Bank Road, Mangalore",74.836573,12.862796
+12,24-04-2024,Blue backpack found in the park,Lost and Found Assistance,"City Park, Kadri, Mangalore",74.8591578,12.8804608
+13,23-04-2024,Bunch of keys found near the market,Lost and Found Assistance,"Market Road, Balmatta, Mangalore",74.8400342,12.8670668
+14,22-04-2024,Dell laptop found in a coffee shop,Lost and Found Assistance,"Cafe Avenue, MG Road, Mangalore",74.839408,12.8825301
+15,21-04-2024,Ray-Ban sunglasses found on the beach,Lost and Found Assistance,"Tannirbavi Beach, Mangalore",74.8138741,12.8913022
+16,20-04-2024,Casio wristwatch found in a taxi,Lost and Found Assistance,"Taxi Stand, Falnir, Mangalore",74.8505627,12.8679782
+17,19-04-2024,Blue umbrella found at the bus stop,Lost and Found Assistance,"Bus Stop, Lalbagh, Mangalore",74.8382851,12.8850984
+18,18-04-2024,Sony earphones found in a park,Lost and Found Assistance,"Central Park, Kankanady, Mangalore",74.8591061,12.8796438
+19,17-04-2024,Brown leather purse found,Lost and Found Assistance,"Shopping Complex, Bejai, Mangalore",74.8467279,12.8901797
+20,26-04-2024,Chemical spill reported in industrial area,Man-Made Disaster,"Industrial Zone, Mangalore",74.8559568,12.9141417
+21,25-04-2024,Fire outbreak in a commercial building,Man-Made Disaster,"Commercial District, Mangalore",74.8559568,12.9141417
+22,24-04-2024,Gas leak detected in residential area,Man-Made Disaster,"Residential Sector, Mangalore",74.8559568,12.9141417
+23,23-04-2024,Explosion at a construction site,Man-Made Disaster,"Construction Zone, Mangalore",74.8559568,12.9141417
+24,22-04-2024,Cybersecurity breach reported,Man-Made Disaster,"Corporate Office, Mangalore",74.7992496,12.9920547
+25,21-04-2024,Rioting and vandalism in city streets,Man-Made Disaster,"Downtown Area, Mangalore",74.8559568,12.9141417
+26,20-04-2024,Power outage affecting large part of city,Man-Made Disaster,"Power Grid, Mangalore",74.8559568,12.9141417
+27,19-04-2024,Structural collapse of a building,Man-Made Disaster,"Residential Area, Mangalore",74.932677,12.9199225
+28,18-04-2024,Hazardous waste spill on highway,Man-Made Disaster,"Highway, Mangalore",74.8559568,12.9141417
+29,17-04-2024,Water contamination reported,Man-Made Disaster,"Water Treatment Plant, Mangalore",74.8552635,12.875716
+30,26-04-2024,Bridge collapse reported,Infrastructure Failure,"Hampankatta Bridge, Mangalore",74.8434026,12.8721142
+31,25-04-2024,Power outage affecting major urban areas,Infrastructure Failure,"Kankanady Power Station, Mangalore",74.8579242,12.8674287
+32,24-04-2024,Water supply disruption in residential areas,Infrastructure Failure,"Bejai Water Distribution Network, Mangalore",74.8467279,12.8901797
+33,23-04-2024,Roadway sinkhole formation reported,Infrastructure Failure,"Kadri Road, Mangalore",74.8514761,12.8785679
+34,22-04-2024,Building structural integrity compromised,Infrastructure Failure,"Mallikatta Tower, Mangalore",74.8561577,12.879826
+35,21-04-2024,Public transportation system breakdown,Infrastructure Failure,"State Bank Road, Mangalore",74.8559568,12.9141417
+36,20-04-2024,Sewage system malfunctioning reported,Infrastructure Failure,"Attavar Sewage Network, Mangalore",74.8492209,12.8641893
+37,19-04-2024,Telephone and internet service outage,Infrastructure Failure,"Balmatta Telecommunication Hub, Mangalore",74.8499821,12.8759974
+38,18-04-2024,Damaged pipelines causing water leakage,Infrastructure Failure,"Pumpwell Water Pipelines, Mangalore",74.8697188,12.8624732
+39,17-04-2024,Collapse of retaining wall reported,Infrastructure Failure,"Valencia Construction Site, Mangalore",74.8578977,12.8628791
+40,26-04-2024,Refugee camp set up for displaced families,Refugee Crisis,"Adyar Border Refugee Camp, Mangalore",74.9223386,12.8683532
+41,25-04-2024,Mass exodus from conflict-stricken areas,Refugee Crisis,"Talapady Border Checkpoint, Mangalore",74.8890953,12.7646754
+42,24-04-2024,Aid distribution to refugee populations,Refugee Crisis,"Ullal Refugee Settlements, Mangalore",74.8548115,12.7923651
+43,23-04-2024,International humanitarian assistance,Refugee Crisis,Mangalore International Airport,74.8721236,12.9504715
+44,22-04-2024,Refugee resettlement program initiated,Refugee Crisis,"Surathkal Resettlement Areas, Mangalore",74.8094458,12.9951009
+45,21-04-2024,Refugee boat intercepted off the coast,Refugee Crisis,"Mulki Coastal Areas, Mangalore",74.7942562,13.0857779
+46,20-04-2024,Refugee registration and documentation,Refugee Crisis,Mangalore Border Registration Center,74.8559568,12.9141417
+47,19-04-2024,Border security tightened amid migration flows,Refugee Crisis,Mangalore Border Regions,74.8559568,12.9141417
+48,18-04-2024,Humanitarian aid convoy dispatched,Refugee Crisis,Mangalore Humanitarian Aid Centers,74.8559568,12.9141417
+49,17-04-2024,Refugee integration programs initiated,Refugee Crisis,Mangalore Community Centers,74.8559568,12.9141417
+50,21-04-2024,Food price inflation impacting vulnerable populations,Famine Security,"Marketplaces, Udupi, Mangalore",74.7421427,13.3408807
+51,20-04-2024,Hunger strike protest for food security,Famine Security,"City center, Mangaluru, Mangalore",74.8427679,12.8712557
+52,18-04-2024,Malnutrition cases increasing,Famine Security,"Health clinics, Kankanady, Mangalore",74.8579242,12.8674287
+53,24-04-2024,Ration supply shortage reported,Famine Security,"Urban slum areas, Surathkal, Mangalore",74.8094458,12.9951009
+54,25-04-2024,Drought affecting agricultural productivity,Famine Security,"Rural farmlands, Puttur, Mangalore",74.8559568,12.9141417
+55,19-04-2024,Food bank established for low-income families,Famine Security,"Community center, Kadri, Mangalore",74.8591578,12.8804608
+56,17-04-2024,Food aid delivery to remote villages,Famine Security,"Remote areas, Beltangady, Mangalore",74.8559568,12.9141417
+57,22-04-2024,Farmers facing crop failure,Famine Security,"Agricultural lands, Mulki, Mangalore",74.7942562,13.0857779
+58,26-04-2024,Food distribution drive for needy families,Famine Security,"Relief shelters, Bajpe, Mangalore",74.8854553,12.9811118
+59,23-04-2024,Nutrition assistance program initiated,Famine Security,"Primary schools, Moodabidri, Mangalore",74.9936004,13.0687993
+60,26-04-2024,Food distribution drive for needy families,Food Security,"Relief shelters, Bajpe, Mangalore",74.8854553,12.9811118
+61,24-04-2024,Ration supply shortage reported,Food Security,"Urban slum areas, Surathkal, Mangalore",74.8094458,12.9951009
+62,23-04-2024,Nutrition assistance program initiated,Food Security,"Primary schools, Moodabidri, Mangalore",74.9936004,13.0687993
+63,20-04-2024,Hunger strike protest for food security,Food Security,"City center, Mangaluru, Mangalore",74.8427679,12.8712557
+64,19-04-2024,Food bank established for low-income families,Food Security,"Community center, Kadri, Mangalore",74.8591578,12.8804608
+65,17-04-2024,Food aid delivery to remote villages,Food Security,"Remote areas, Beltangady, Mangalore",74.8559568,12.9141417
+66,25-04-2024,Drought affecting agricultural productivity,Food Security,"Rural farmlands, Puttur, Mangalore",74.8559568,12.9141417
+67,22-04-2024,Farmers facing crop failure,Food Security,"Agricultural lands, Mulki, Mangalore",74.7942562,13.0857779
+68,21-04-2024,Food price inflation impacting vulnerable populations,Food Security,"Marketplaces, Udupi, Mangalore",74.7421427,13.3408807
+69,18-04-2024,Malnutrition cases increasing,Food Security,"Health clinics, Kankanady, Mangalore",74.8579242,12.8674287
+70,26-04-2024,COVID-19 vaccination drive at local health center,Pandemic/Epidemic,"Health center, Urwa, Mangalore",74.8346296,12.8967709
+71,24-04-2024,Outbreak of dengue fever in urban areas,Pandemic/Epidemic,"Urban neighborhoods, Balmatta, Mangalore",74.8499821,12.8759974
+72,23-04-2024,Surge in influenza cases reported,Pandemic/Epidemic,"Hospitals, Attavar, Mangalore",74.8492209,12.8641893
+73,20-04-2024,Measles outbreak among school children,Pandemic/Epidemic,"Schools, Bejai, Mangalore",74.8467279,12.8901797
+74,19-04-2024,Increase in tuberculosis cases detected,Pandemic/Epidemic,"Health clinics, Kadri, Mangalore",74.8269906,12.9118618
+75,17-04-2024,Hepatitis outbreak in a residential area,Pandemic/Epidemic,"Residential area, Pumpwell, Mangalore",74.8697188,12.8624732
+76,25-04-2024,Cholera cases reported in slum settlements,Pandemic/Epidemic,"Slum settlements, Jeppu, Mangalore",74.8494473,12.8500529
+77,22-04-2024,Typhoid fever spreading in rural villages,Pandemic/Epidemic,"Rural villages, Padil, Mangalore",74.8843371,12.8689248
+78,21-04-2024,Zika virus alert issued by health authorities,Pandemic/Epidemic,"Health department, Kankanady, Mangalore",74.8579242,12.8674287
+79,18-04-2024,Outbreak of malaria in forested areas,Pandemic/Epidemic,"Forested areas, Adyar, Mangalore",74.9223386,12.8683532
+80,26-04-2024,Heavy rainfall causes water logging in downtown,Water Logging,"Hampankatta, Mangalore",74.8434026,12.8721142
+81,25-04-2024,Clogged drains lead to water logging on streets,Water Logging,"Balmatta, Mangalore",74.8499821,12.8759974
+82,24-04-2024,Overflowing sewage causes water logging,Water Logging,"Surathkal, Mangalore",74.8094458,12.9951009
+83,23-04-2024,Poor drainage system results in water logging,Water Logging,"Kankanady, Mangalore",74.8579242,12.8674287
+84,22-04-2024,Rainwater accumulation in residential areas,Water Logging,"Kadri, Mangalore",74.8591578,12.8804608
+85,21-04-2024,Blocked culverts lead to water logging,Water Logging,"Bendoorwell, Mangalore",74.8572923,12.8708333
+86,20-04-2024,Inadequate stormwater drainage causes flooding,Water Logging,"Jeppu, Mangalore",74.8494473,12.8500529
+87,19-04-2024,Persistent rainfall results in water logging,Water Logging,"Pumpwell, Mangalore",74.8697188,12.8624732
+88,18-04-2024,Urban flooding due to heavy rains,Water Logging,"Lalbagh, Mangalore",74.8382851,12.8850984
+89,17-04-2024,Water accumulation in low-lying areas,Water Logging,"Bejai, Mangalore",74.8467279,12.8901797
+90,26-04-2024,Urgently need A-positive blood for surgery,Blood Donation Request,"Indiana Hospital, Mangalore",74.866016,12.8674982
+91,25-04-2024,Blood needed for accident victim,Assistance in Finding Missing Persons,"City Hospital, Mangalore",74.8531222,12.8796415
+92,24-04-2024,Blood needed for cancer patient,Reporting and Addressing Fraud Cases,"Tejaswini Hospital, Mangalore",74.8537239,12.8802774
+93,23-04-2024,"Victim of road accident, admitted for treatment",Assistance in Finding Missing Persons,"Vinaya Hospital, Mangalore",74.8466023,12.8790345
+94,22-04-2024,Injured pedestrian in road accident,Assistance in Finding Missing Persons,"KMC Hospital, Mangalore",74.848219,12.8594454
+95,21-04-2024,Injured pedestrian in road accident,Assistance in Finding Missing Persons,"Yenepoya Hospital, Mangalore",74.8412242,12.8730398
+96,20-04-2024,"Reported missing after altercation, last seen at school",Assistance in Finding Missing Persons,"Sacred Heart School, Mangalore",74.883783,12.8859382
+97,19-04-2024,"Victim of road accident, admitted for treatment",Assistance in Finding Missing Persons,"Rosario School, Mangalore",74.8362304,12.8573957
+98,18-04-2024,Involved in a vehicular accident,Assistance in Finding Missing Persons,"Canara High School, Mangalore",74.8345592,12.8847591
+99,17-04-2024,Altercation with auto drivers,Reporting and Addressing Fraud Cases,"St. Theresa's School, Mangalore",74.8562711,12.8750376
+100,26-04-2024,Noise complaint due to construction work,Noise Complaint,"Near Unity Hospital, Mangalore",74.8540711,12.8676609
+101,25-04-2024,Loud music disturbance near a school,Noise Complaint,"Adjacent to St. Aloysius School, Mangalore",74.8451771,12.8744721
+102,24-04-2024,Continuous honking near a hospital,Noise Complaint,"Opposite to Father Muller Hospital, Mangalore",74.8559568,12.9141417
+103,23-04-2024,Noise from vehicle repairs near a school,Noise Complaint,"Close to Milagres School, Mangalore",74.843354,12.8682927
+104,22-04-2024,Loudspeakers causing disturbance near a hospital,Noise Complaint,"Next to AJ Hospital, Mangalore",74.8460278,12.8993521
+105,21-04-2024,Construction noise near a school,Noise Complaint,"Behind Bharatiya Vidya Bhavan School, Mangalore",74.8559568,12.9141417
+106,20-04-2024,Traffic noise during school hours,Noise Complaint,"Near Canara High School, Mangalore",74.8345592,12.8847591
+107,19-04-2024,Industrial machinery noise near a hospital,Noise Complaint,"Adjacent to Yenepoya Hospital, Mangalore",74.8412242,12.8730398
+108,18-04-2024,Loudspeaker announcements near a school,Noise Complaint,"Next to St. Joseph's School, Mangalore",74.8559568,12.9141417
+109,17-04-2024,Vehicle repairs causing disturbance near a hospital,Noise Complaint,"Close to KMC Hospital, Mangalore",74.8559568,12.9141417
+110,26-04-2024,Road blocked due to a major accident,Road Blocks,"NH-66 near Kottara Chowki, Mangalore",74.8381682,12.9070872
+111,25-04-2024,Traffic diverted following a vehicle collision,Road Blocks,"MG Road near PVS Circle, Mangalore",74.8559568,12.9141417
+112,24-04-2024,Road closed due to overturned truck,Road Blocks,"Airport Road near Kavoor, Mangalore",74.8593661,12.9287918
+113,23-04-2024,Temporary road closure after a bus accident,Road Blocks,"NH-169 near Pumpwell, Mangalore",74.8922415,12.9016315
+114,22-04-2024,Street blocked due to a car fire,Road Blocks,"Kadri Road near Mallikatte, Mangalore",74.8514761,12.8785679
+115,21-04-2024,Traffic halted following multiple vehicle crash,Road Blocks,"Kankanady Bypass, Mangalore",74.8606953,12.869662
+116,20-04-2024,Road blocked due to a fallen tree,Road Blocks,"NH-75 near Nanthoor, Mangalore",74.8638808,12.8839302
+117,19-04-2024,Street closed for clean-up after a tanker spill,Road Blocks,"Valencia Road near Urwa Store, Mangalore",74.8608478,12.8634066
+118,18-04-2024,Traffic redirected due to an overturned bus,Road Blocks,"BC Road near Faisalnagar, Mangalore",74.8953,12.8618753
+119,17-04-2024,Road blocked due to a landslide,Road Blocks,"Shiradi Ghat Road, Mangalore",74.8559568,12.9141417
+120,26-04-2024,Local market closed due to vendor strike,Fresh Food Accessibility Issues,"Central Market, Kodialbail, Mangalore",74.8404089,12.8673871
+121,25-04-2024,Vegetable supply delayed due to transportation issues,Fresh Food Accessibility Issues,"Wholesale Vegetable Market, Kankanady, Mangalore",74.8579242,12.8674287
+122,24-04-2024,Fishermen's strike impacting seafood availability,Fresh Food Accessibility Issues,"Old Port Area, Bunder, Mangalore",74.8329749,12.861625
+123,23-04-2024,Bakery closed for renovation,Fresh Food Accessibility Issues,"Bakery Junction, Balmatta, Mangalore",74.8499821,12.8759974
+124,22-04-2024,Fruit vendors facing shortage of stock,Fresh Food Accessibility Issues,"Nehru Maidan, Car Street, Mangalore",74.8388334,12.862232
+125,21-04-2024,Groceries out of stock due to supply chain disruption,Fresh Food Accessibility Issues,"Supermarket, Urwa, Mangalore",74.8346296,12.8967709
+126,20-04-2024,Dairy farm shut down temporarily for maintenance,Fresh Food Accessibility Issues,"Dairy Farm, Padil, Mangalore",74.8843371,12.8689248
+127,19-04-2024,Farmers facing crop failure leading to produce shortage,Fresh Food Accessibility Issues,"Rural Farming Areas, Beltangady, Mangalore",75.2725454,12.9886641
+128,18-04-2024,Vegetable prices increased due to weather fluctuations,Fresh Food Accessibility Issues,"Street Market, Attavar, Mangalore",74.8492209,12.8641893
+129,17-04-2024,Wholesale market closed for cleaning,Fresh Food Accessibility Issues,"Wholesale Market, Surathkal, Mangalore",74.8094458,12.9951009
+130,26-04-2024,Lack of ambulance services in remote villages,Healthcare Accessibility Challenges,"Remote Village, Belthangady, Mangalore",74.8559568,12.9141417
+131,25-04-2024,No specialist doctor available in rural clinics,Healthcare Accessibility Challenges,"Rural Clinic, Mulki, Mangalore",74.7942562,13.0857779
+132,24-04-2024,Emergency medical services delayed due to road condition,Healthcare Accessibility Challenges,"Outskirts, Kinnigoli, Mangalore",74.8474151,13.0628131
+133,23-04-2024,Medical supplies shortage in government hospitals,Healthcare Accessibility Challenges,"District Hospital, Puttur, Mangalore",74.8559568,12.9141417
+134,22-04-2024,Long wait times for appointments in public hospitals,Healthcare Accessibility Challenges,"Government Hospital, Moodabidri, Mangalore",74.9936004,13.0687993
+135,21-04-2024,Lack of healthcare facilities in tribal areas,Healthcare Accessibility Challenges,"Tribal Settlement, Sullia, Mangalore",75.3907667,12.5580735
+136,20-04-2024,Difficulty accessing healthcare for elderly residents,Healthcare Accessibility Challenges,"Elderly Care Home, Ullal, Mangalore",74.8585442,12.8146637
+137,19-04-2024,Limited medical staff availability in rural clinics,Healthcare Accessibility Challenges,"Village Health Center, Bantwal, Mangalore",75.0412305,12.9012483
+138,18-04-2024,Lack of emergency medical services in hilly regions,Healthcare Accessibility Challenges,"Hilltop Village, Kudremukh, Mangalore",74.8631397,12.9242001
+139,17-04-2024,Remote islands lacking medical infrastructure,Healthcare Accessibility Challenges,"Island Community, Padubidri, Mangalore",74.8559568,12.9141417
+140,26-04-2024,Overflowing garbage bins due to irregular collection,Waste Disposal Problems,"Residential Area, Bunder, Mangalore",74.8336234,12.8616853
+141,25-04-2024,Dumping of waste in vacant plots causing pollution,Waste Disposal Problems,"Vacant Plot, Surathkal, Mangalore",74.8094458,12.9951009
+142,24-04-2024,Garbage dumped in open spaces by unauthorized persons,Waste Disposal Problems,"Open Field, Kavoor, Mangalore",74.8521752,12.9229853
+143,23-04-2024,Lack of waste segregation leading to landfill overflow,Waste Disposal Problems,"Landfill Site, Shaktinagar, Mangalore",74.87849,12.9021515
+144,22-04-2024,Inadequate waste collection resulting in littering,Waste Disposal Problems,"Street Corner, Kadri, Mangalore",74.8591578,12.8804608
+145,21-04-2024,Industrial waste discharged into water bodies,Waste Disposal Problems,"River Bank, Baikampady, Mangalore",74.8214693,12.9477532
+146,20-04-2024,Dumping of construction debris in public areas,Waste Disposal Problems,"Construction Site, Bejai, Mangalore",74.8413352,12.8894016
+147,19-04-2024,Overflowing waste bins causing foul odor,Waste Disposal Problems,"Market Area, Hampankatta, Mangalore",74.8434026,12.8721142
+148,18-04-2024,Absence of waste management facilities in villages,Waste Disposal Problems,"Village Periphery, Adyar, Mangalore",74.9223386,12.8683532
+149,17-04-2024,Improper disposal of electronic waste,Waste Disposal Problems,"E-Waste Collection Point, Urwa, Mangalore",74.8346296,12.8967709
+150,26-04-2024,Graffiti sprayed on residential walls,Property Vandalism,"Kavoor Housing Board Colony, Mangalore",74.8541855,12.9386696
+151,25-04-2024,Park benches broken in public garden,Property Vandalism,"Nehru Maidan, Hampankatta, Mangalore",74.8388334,12.862232
+152,24-04-2024,Bus stop shelter glass shattered,Property Vandalism,"Airport Road, Bajpe, Mangalore",74.8649879,12.9239797
+153,23-04-2024,Street lights damaged in commercial area,Property Vandalism,"Bejai Main Road, Bejai, Mangalore",74.8482857,12.8855209
+154,22-04-2024,Shop windows smashed in shopping district,Property Vandalism,"Hampankatta Market, Mangalore",74.8434026,12.8721142
+155,21-04-2024,Residential gates vandalized with spray paint,Property Vandalism,"Kodialbail, Mangalore",74.8400962,12.8746143
+156,20-04-2024,Car windshields smashed in parking lot,Property Vandalism,"City Center Mall parking, Mangalore",74.8427679,12.8712557
+157,19-04-2024,Public library windows broken with rocks,Property Vandalism,"Central Library Road, Kadri, Mangalore",74.8591578,12.8804608
+158,18-04-2024,School building defaced with graffiti,Property Vandalism,"Maryhill High School, Maryhill, Mangalore",74.8609472,12.9095125
+159,17-04-2024,Community center walls vandalized,Property Vandalism,"Bondel Community Center, Bondel, Mangalore",74.8770282,12.9258499
+160,26-04-2024,Graffiti sprayed on residential walls,Property Vandalism,"Ullal Beach Road, Ullal, Mangalore",74.8422695,12.8075765
+161,25-04-2024,Park benches broken in public garden,Property Vandalism,"Ullal Main Road, Ullal, Mangalore",74.8495326,12.8161761
+162,26-04-2024,Stray dog rescued from NH 66,Animal Rescue,"NH 66, Near Pumpwell, Mangalore",74.8662981,12.8637819
+163,25-04-2024,Injured cow rescued from NH 169,Animal Rescue,"NH 169, Near Mulki Junction, Mangalore",74.8922415,12.9016315
+164,24-04-2024,Cat rescued from NH 75,Animal Rescue,"NH 75, Near Udupi, Mangalore",74.8559568,12.9141417
+165,23-04-2024,Monkey rescued from NH 73,Animal Rescue,"NH 73, Near BC Road, Mangalore",75.0275923,12.8824835
+166,22-04-2024,Dog rescued from NH 169,Animal Rescue,"NH 169, Near Surathkal, Mangalore",74.8922415,12.9016315
+167,21-04-2024,Cow rescued from NH 169,Animal Rescue,"NH 169, Near BC Road Junction, Mangalore",75.2197099,13.3899596
+168,20-04-2024,Stray dog rescued from NH 66,Animal Rescue,"NH 66, Near Thokottu, Mangalore",74.7445927,13.4354679
+169,19-04-2024,Injured bird rescued from NH 75,Animal Rescue,"NH 75, Near Kinnigoli, Mangalore",74.8474151,13.0628131
+170,18-04-2024,Cat rescued from NH 73,Animal Rescue,"NH 73, Near Moodbidri, Mangalore",74.8826349,12.8750153
+171,17-04-2024,Dog rescued from NH 169,Animal Rescue,"NH 169, Near Padubidri, Mangalore",74.8922415,12.9016315
+172,26-04-2024,Monkeys entering residential area,Wildlife Habitat Displacement,"Gurupura Colony, Ullal, Mangalore",74.8585442,12.8146637
+173,25-04-2024,Elephants damaging crops,Wildlife Habitat Displacement,"Bajpe Farmlands, Mangalore",74.8854553,12.9811118
+174,24-04-2024,Leopards sighted near residential buildings,Wildlife Habitat Displacement,"Konaje Housing Colony, Mangalore",74.921277,12.817115
+175,23-04-2024,Deer straying onto highways,Wildlife Habitat Displacement,"Mulki Highway Area, Mangalore",75.0198448,13.0639307
+176,22-04-2024,Wild boars destroying farm fields,Wildlife Habitat Displacement,"Moodbidri Farmland, Mangalore",74.9936004,13.0687993
+177,21-04-2024,Snakes found in residential gardens,Wildlife Habitat Displacement,"Kadri Residential Area, Mangalore",74.8559568,12.9141417
+178,20-04-2024,Bears spotted near picnic spots,Wildlife Habitat Displacement,"Panambur Picnic Area, Mangalore",74.8011783,12.9530213
+179,19-04-2024,Crocodiles entering fishing villages,Wildlife Habitat Displacement,"Surathkal Fishing Village, Mangalore",74.8094458,12.9951009
+180,18-04-2024,Wild dogs attacking livestock,Wildlife Habitat Displacement,"Puttur Livestock Farm, Mangalore",74.8559568,12.9141417
+181,17-04-2024,Monkeys damaging fruit orchards,Wildlife Habitat Displacement,"Ullal Fruit Plantation, Mangalore",74.8548115,12.7923651
