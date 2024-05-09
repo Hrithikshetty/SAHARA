@@ -1,19 +1,19 @@
 "use client";
 import Link from "next/link";
-import { useState } from 'react'; 
-import { Button } from "../components/button";
+import { useState } from "react";
+import { Button } from "./home/components/button";
 
 export default function Component() {
-  const [isMobileMenuVisible, setIsMobileMenuVisible] = useState(false); 
+  const [isMobileMenuVisible, setIsMobileMenuVisible] = useState(false);
 
   const toggleMobileMenu = () => {
     setIsMobileMenuVisible(!isMobileMenuVisible);
   };
 
-  const [auth, setAuth] = useState(false); 
+  const [auth, setAuth] = useState(false);
 
   const handleLogin = () => {
-    setAuth(!auth); 
+    setAuth(!auth);
   };
 
   return (
@@ -27,16 +27,36 @@ export default function Component() {
         </div>
         <nav className="md:flex gap-8 hidden">
           <Link href="/pages/login">
-            <Button className="text-lg font-medium hover:underline underline-offset-4" variant="outline">Posts</Button>
+            <Button
+              className="text-lg font-medium hover:underline underline-offset-4"
+              variant="outline"
+            >
+              Posts
+            </Button>
           </Link>
           <Link href="/pages/login">
-            <Button className="text-lg font-medium hover:underline underline-offset-4" variant="outline">Volunteer</Button>
+            <Button
+              className="text-lg font-medium hover:underline underline-offset-4"
+              variant="outline"
+            >
+              Volunteer
+            </Button>
           </Link>
           <Link href="/pages/login">
-            <Button className="text-lg font-medium hover:underline underline-offset-4" variant="outline">Analytics</Button>
+            <Button
+              className="text-lg font-medium hover:underline underline-offset-4"
+              variant="outline"
+            >
+              Analytics
+            </Button>
           </Link>
           <Link href="/pages/login">
-            <Button className="text-lg font-medium hover:underline underline-offset-4" variant="outline">Relocate Volunteer</Button>
+            <Button
+              className="text-lg font-medium hover:underline underline-offset-4"
+              variant="outline"
+            >
+              Relocate Volunteer
+            </Button>
           </Link>
         </nav>
         <Link href="/pages/login">
@@ -58,19 +78,27 @@ export default function Component() {
           {isMobileMenuVisible && (
             <div className="absolute top-16 right-0 w-48 py-2 bg-gray-100 rounded-lg shadow-md flex flex-col gap-2">
               <Link href="/pages/login">
-                <Button className="p-2" variant="outline">Posts</Button>
+                <Button className="p-2" variant="outline">
+                  Posts
+                </Button>
               </Link>
               <Link href="/pages/login">
-                <Button className="p-2" variant="outline">Volunteer</Button>
+                <Button className="p-2" variant="outline">
+                  Volunteer
+                </Button>
               </Link>
               <Link href="/pages/login">
-                <Button className="p-2" variant="outline">Analytics</Button>
+                <Button className="p-2" variant="outline">
+                  Analytics
+                </Button>
               </Link>
               <Link href="/pages/login">
-                <Button className="p-2" variant="outline">Relocate Volunteer</Button>
+                <Button className="p-2" variant="outline">
+                  Relocate Volunteer
+                </Button>
               </Link>
               <button className="p-2" onClick={handleLogin}>
-                {auth ? 'Logout' : 'Login'} 
+                {auth ? "Logout" : "Login"}
               </button>
             </div>
           )}
@@ -115,21 +143,29 @@ export default function Component() {
           </p>
         </section>
         <section
-                    id="about"
-                    className="flex flex-col items-center justify-center gap-8 md:gap-12 max-w-6xl mx-auto px-8 py-12"
-                >
-                    <h2 className="text-4xl md:text-5xl font-bold">About Application</h2>
-                    <p className="text-gray-600 dark:text-gray-400 text-lg">
-                    Sahara revolutionizes emergency volunteerism with its innovative features like risk-prone analysis and social media integration. Through advanced data analytics, it identifies high-risk areas and optimizes resource allocation for efficient crisis response. Sahara's OTP-secured application ensures the safety of user interactions, while its dual-platform availability on web and mobile facilitates widespread community engagement. With Sahara, we aim to empower communities to mitigate disaster impacts and foster resilience through informed decision-making and coordinated response efforts.
-                    </p>
-                </section>
-        
+          id="about"
+          className="flex flex-col items-center justify-center gap-8 md:gap-12 max-w-6xl mx-auto px-8 py-12"
+        >
+          <h2 className="text-4xl md:text-5xl font-bold">About Application</h2>
+          <p className="text-gray-600 dark:text-gray-400 text-lg">
+            Sahara revolutionizes emergency volunteerism with its innovative
+            features like risk-prone analysis and social media integration.
+            Through advanced data analytics, it identifies high-risk areas and
+            optimizes resource allocation for efficient crisis response.
+            Sahara's OTP-secured application ensures the safety of user
+            interactions, while its dual-platform availability on web and mobile
+            facilitates widespread community engagement. With Sahara, we aim to
+            empower communities to mitigate disaster impacts and foster
+            resilience through informed decision-making and coordinated response
+            efforts.
+          </p>
+        </section>
       </main>
     </div>
   );
 }
 
-interface MountainIconProps extends React.SVGProps<SVGSVGElement> { }
+interface MountainIconProps extends React.SVGProps<SVGSVGElement> {}
 
 function MountainIcon(props: MountainIconProps) {
   return (

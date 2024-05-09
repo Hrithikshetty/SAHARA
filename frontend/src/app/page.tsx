@@ -1,5 +1,7 @@
-import Component from "./pages/homepage";
+import Component from "../app/home/home"
 
 export default function Home() {
-  return <Component />;
+  return (
+    <Component/>
+  );
 }

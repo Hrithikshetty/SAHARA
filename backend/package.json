@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "                                                    "
+    "url": "https://github.com/Hrithikshetty/CANARA.git"
   },
   "author": "Hrithik Shetty",
   "license": "ISC",
@@ -31,5 +31,5 @@
     "twilio": "^5.0.4"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "sahara application"
 }
