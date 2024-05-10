@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800628852763",
+    "project_id": "fir-otpverfication",
+    "storage_bucket": "fir-otpverfication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800628852763:android:d7d8746790c24f933c10be",
+        "android_client_info": {
+          "package_name": "com.example.sahara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhfCBS7FvINNLFPhREGE5YmFe-WVIWO9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
