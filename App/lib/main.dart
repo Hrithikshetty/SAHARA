@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: MyHomePage(),
     );
   }
@@ -29,7 +30,7 @@ class _MyHomePageState extends State<MyHomePage> {
   TextEditingController otpController = TextEditingController();
   TwilioFlutter twilioFlutter = TwilioFlutter(
     accountSid: 'ACa633806085e43aeb57bb352b521bef6c',
-    authToken: 'b20c4ac5205c83aedd41ee06d1e9a61b',
+    authToken: 'fa6f32e73582e323c7b065b85a79f0ae',
     twilioNumber: '+16366140831',
   );
 
@@ -54,6 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Future<void> sendOTP(String phoneNumber) async {
     try {
       String otp =generateOTP();
+      print(otp);
       phoneNumber = '+91' + phoneNumber.substring(phoneNumber.length - 10);
       await twilioFlutter.sendSMS(
         toNumber: phoneNumber,
@@ -168,7 +170,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       if (isVerified) {
                         print('OTP verified successfully');
                         SharedPreferences prefs = await SharedPreferences.getInstance();
-                        await prefs.setBool('is_otp_verified', true); 
+                        await prefs.setBool('is_otp_verified', true);
                         Navigator.pushReplacement(
                           context,
                           MaterialPageRoute(builder: (context) => HomeScreen()),
@@ -189,4 +191,3 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-
