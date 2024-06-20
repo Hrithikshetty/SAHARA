@@ -126,7 +126,7 @@ export default function Component() {
   ];
 
   return (
-    <div className="bg-black text-white w-full lg:p-20 pt-10 flex justify-center items-center">
+    <div className="bg-black text-white w-full lg:p-20 pt-10 flex justify-center items-center min-h-screen">
       <div className="w-1/2 space-y-8">
         <div className="space-y-2">
           <h2 className="text-3xl font-bold">Become a Volunteer</h2>
