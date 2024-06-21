@@ -8,8 +8,8 @@ from pymongo import MongoClient
 
 
 
-cData = pd.read_csv("C:\\Users\\aloky\\OneDrive\\Desktop\\CANARA\\Analytics\\001.csv")
-fData = pd.read_csv("C:\\Users\\aloky\\OneDrive\\Desktop\\CANARA\\Analytics\\002.csv")
+cData = pd.read_csv("C:\\Users\\aloky\\OneDrive\\Desktop\\SAHARA\\Analytics\\001.csv")
+fData = pd.read_csv("C:\\Users\\aloky\\OneDrive\\Desktop\\SAHARA\\Analytics\\002.csv")
 
 
 cData_colors = {

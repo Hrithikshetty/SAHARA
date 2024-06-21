@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import * as React from 'react'
-import { Button } from "../../components/button";
+import { Button } from "../../components/ui/button";
 
 interface LottieProps {
     animationData: any;
@@ -52,7 +52,7 @@ export default function Component() {
                 </nav>
                 <Link href="/">
                         <Button
-                            className="text-lg font-medium hidden border-black border-2 md:inline-flex p-1 rounded-xl"
+                            className="text-lg text-white bg-white font-medium hidden border-black border-2 md:inline-flex p-1 rounded-xl"
                             variant="outline"
                         >
                             sign-out
