@@ -111,15 +111,8 @@ python app.py
 
 ## Contributors
 <a href="https://github.com/alokillur/Secret-Pixels/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=alokillur/Secret-Pixels" />
+  <img src="https://contrib.rocks/image?repo=hrithikshetty/Sahara" />
 </a>
 
-For more information, visit the [GitHub repository](https://github.com/yourusername/sahara).
+For more information, visit the [GitHub repository](https://github.com/Hrithikshetty/Sahara).
 ```
-
-### Key Instructions:
-1. **Replace Image URLs**: Update any image links like logos or contributor images to the correct URLs that you want to use.
-2. **Repository URL**: Replace `https://github.com/yourusername/sahara` with your actual GitHub repository link.
-3. **Contributor Images**: If the images don't load, ensure the URLs are correct or update them with new ones.
-
-This format provides a visually appealing and structured README for your project. Let me know if you need any modifications!
