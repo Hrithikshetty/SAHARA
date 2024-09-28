@@ -110,7 +110,7 @@ python app.py
 ---
 
 ## Contributors
-<a href="https://github.com/alokillur/Secret-Pixels/graphs/contributors">
+<a href="https://github.com/alokillur/Sahara/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hrithikshetty/Sahara" />
 </a>
 
